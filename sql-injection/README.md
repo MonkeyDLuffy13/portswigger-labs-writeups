@@ -28,8 +28,6 @@ and a short mitigation note.
 | 17 | Visible error-based SQL injection | Practitioner | [lab](https://portswigger.net/web-security/sql-injection/blind/lab-sql-injection-visible-error-based) | [17](17-visible-error-based.md) |
 | 18 | SQL injection with filter bypass via XML encoding | Practitioner | [lab](https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding) | [18](18-filter-bypass-xml-encoding.md) |
 
-> All lab URLs were verified live (HTTP 200) at the time of writing.
-
 ## Universal methodology
 
 Every UNION lab follows the same loop — memorize it once, reuse everywhere:

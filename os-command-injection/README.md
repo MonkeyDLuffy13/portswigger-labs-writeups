@@ -1,7 +1,6 @@
 # Os Command Injection — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **حقن أوامر النظام** · 4 labs · ✅ solved — all 3 verified labs
-> Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
+> Tracker name (Arabic): **حقن أوامر النظام** · 4 labs · ✅ solved — all 5 verified labs
 
 > ⚠️ **Link check 2026-10-17:** 1 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
 
@@ -13,3 +12,5 @@
 | 2 | Blind OS command injection with time delays | Practitioner | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-time-delays) | ✅ [02-blind-time-delays.md](02-blind-time-delays.md) |
 | 3 | Blind OS command injection with output redirection | Practitioner | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-output-redirection) | ✅ [03-blind-output-redirection.md](03-blind-output-redirection.md) |
 | 4 | OS command injection with filter bypass | Expert | — | — |
+| 5 | Blind OS command injection with out-of-band interaction | Expert | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band) | ✅ [05-blind-oob.md](05-blind-oob.md) |
+| 6 | Blind OS command injection with out-of-band data exfiltration | Expert | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band-data-exfiltration) | ✅ [06-blind-oob-exfiltration.md](06-blind-oob-exfiltration.md) |

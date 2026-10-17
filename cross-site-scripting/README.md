@@ -1,7 +1,6 @@
 # Cross Site Scripting — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **هجمات XSS** · 18 labs · ✅ solved — all 15 verified labs
-> Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
+> Tracker name (Arabic): **هجمات XSS** · 18 labs · ✅ solved — all 30 labs
 
 > ⚠️ **Link check 2026-10-17:** 3 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
 
@@ -29,3 +28,18 @@
 | 16 | Reflected XSS in a canonical link tag | Expert | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-canonical-link-tag) | ✅ [16-canonical-link-tag.md](16-canonical-link-tag.md) |
 | 17 | Exploiting XSS to steal cookies | Practitioner | [lab](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-stealing-cookies) | ✅ [17-stealing-cookies.md](17-stealing-cookies.md) |
 | 18 | Exploiting XSS to capture passwords | Practitioner | [lab](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-capturing-passwords) | ✅ [18-capturing-passwords.md](18-capturing-passwords.md) |
+| 19 | Lab: DOM XSS in jQuery anchor href attribute sink using location.search source | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-href-attribute-sink) | ✅ [19-jquery-href-sink.md](19-jquery-href-sink.md) |
+| 20 | Lab: DOM XSS in jQuery selector sink using a hashchange event | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-selector-hash-change-event) | ✅ [20-jquery-selector-hashchange.md](20-jquery-selector-hashchange.md) |
+| 21 | Lab: Exploiting XSS to bypass CSRF defenses | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf) | ✅ [21-bypass-csrf.md](21-bypass-csrf.md) |
+| 22 | Lab: Reflected DOM XSS | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-dom-xss-reflected) | ✅ [22-reflected-dom-xss.md](22-reflected-dom-xss.md) |
+| 23 | Lab: Reflected XSS in a JavaScript URL with some characters blocked | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked) | ✅ [23-javascript-url-blocked-chars.md](23-javascript-url-blocked-chars.md) |
+| 24 | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-all-standard-tags-blocked) | ✅ [24-custom-tags.md](24-custom-tags.md) |
+| 25 | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-angle-brackets-double-quotes-encoded-single-quotes-escaped) | ✅ [25-js-string-single-quotes-escaped.md](25-js-string-single-quotes-escaped.md) |
+| 26 | Lab: Reflected XSS into attribute with angle brackets HTML-encoded | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-attribute-angle-brackets-html-encoded) | ✅ [26-attribute-angle-brackets-encoded.md](26-attribute-angle-brackets-encoded.md) |
+| 27 | Lab: Reflected XSS protected by CSP, with CSP bypass | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass) | ✅ [27-csp-bypass.md](27-csp-bypass.md) |
+| 28 | Lab: Reflected XSS protected by very strict CSP, with dangling markup attack | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-very-strict-csp-with-dangling-markup-attack) | ✅ [28-csp-dangling-markup.md](28-csp-dangling-markup.md) |
+| 29 | Lab: Reflected XSS with AngularJS sandbox escape and CSP | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-and-csp) | ✅ [29-angularjs-sandbox-csp.md](29-angularjs-sandbox-csp.md) |
+| 30 | Lab: Reflected XSS with AngularJS sandbox escape without strings | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-without-strings) | ✅ [30-angularjs-sandbox-without-strings.md](30-angularjs-sandbox-without-strings.md) |
+| 31 | Lab: Stored DOM XSS | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-dom-xss-stored) | ✅ [31-stored-dom-xss.md](31-stored-dom-xss.md) |
+| 32 | Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-href-attribute-double-quotes-html-encoded) | ✅ [32-anchor-href-double-quotes.md](32-anchor-href-double-quotes.md) |
+| 33 | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | Web Security Academy | — | [lab](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-onclick-event-angle-brackets-double-quotes-html-encoded-single-quotes-backslash-escaped) | ✅ [33-onclick-event.md](33-onclick-event.md) |

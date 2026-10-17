@@ -1,7 +1,6 @@
 # Server Side Template Injection — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **حقن القوالب من جانب الخادم SSTI** · 6 labs · ✅ solved — all 6 verified labs
-> Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
+> Tracker name (Arabic): **حقن القوالب من جانب الخادم SSTI** · 6 labs · ✅ solved — all 7 verified labs
 
 | # | Lab | Level | Official | Solution |
 |---|-----|-------|----------|----------|
@@ -11,3 +10,4 @@
 | 4 | Server-side template injection in an unknown language with a documented exploit | Expert | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit) | ✅ [04-unknown-language.md](04-unknown-language.md) |
 | 5 | Server-side template injection with information disclosure via user-supplied objects | Expert | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects) | ✅ [05-user-supplied-objects.md](05-user-supplied-objects.md) |
 | 6 | Server-side template injection in a sandboxed code environment | Expert | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment) | ✅ [06-sandboxed.md](06-sandboxed.md) |
+| 7 | Server-side template injection with a custom exploit | Expert | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit) | ✅ [07-custom-exploit.md](07-custom-exploit.md) |

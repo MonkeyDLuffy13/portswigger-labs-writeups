@@ -7,39 +7,35 @@ official links, and per-lab solution files.
 
 ## Topics
 
-| Topic | Tracker labs | Verified live | Solved | Index |
-|-------|-------------:|--------------:|--------|-------|
-| SQL Injection | 21 | 18 | ✅  | [sql-injection/](sql-injection/) |
-| Cross-Site Scripting | 18 | 15 | ✅ | [cross-site-scripting/](cross-site-scripting/) |
-| CSRF | 5 | 5 | ✅ | [cross-site-request-forgery-csrf/](cross-site-request-forgery-csrf/) |
-| Clickjacking | 3 | 2 | ✅ | [clickjacking/](clickjacking/) |
-| DOM-based Vulnerabilities | 3 | 2 | ✅ | [dom-based-vulnerabilities/](dom-based-vulnerabilities/) |
-| CORS | 4 | 3 | ✅ | [cross-origin-resource-sharing-cors/](cross-origin-resource-sharing-cors/) |
-| XXE | 4 | 4 | ✅ | [xml-external-entity-xxe-injection/](xml-external-entity-xxe-injection/) |
-| SSRF | 3 | 3 | ✅ | [server-side-request-forgery-ssrf/](server-side-request-forgery-ssrf/) |
-| HTTP Request Smuggling | 4 | 2 | ✅ | [http-request-smuggling/](http-request-smuggling/) |
-| OS Command Injection | 4 | 3 | ✅ | [os-command-injection/](os-command-injection/) |
-| SSTI | 6 | 6 | ✅ | [server-side-template-injection/](server-side-template-injection/) |
-| Path Traversal | 6 | 6 | ✅ | [path-traversal/](path-traversal/) |
-| Access Control | 5 | 5 | ✅ | [access-control-vulnerabilities/](access-control-vulnerabilities/) |
-| Authentication | 5 | 4 | ✅ | [authentication/](authentication/) |
-| WebSockets | 2 | 2 | ✅ | [websockets/](websockets/) |
-| Web Cache Poisoning | 5 | 5 | ✅ | [web-cache-poisoning/](web-cache-poisoning/) |
-| Insecure Deserialization | 5 | 5 | ✅ | [insecure-deserialization/](insecure-deserialization/) |
-| Information Disclosure | 5 | 3 | ✅ | [information-disclosure/](information-disclosure/) |
-| Business Logic Vulnerabilities | 4 | 4 | ✅ | [business-logic-vulnerabilities/](business-logic-vulnerabilities/) |
-| **Total** | **112** | **97** | **97** | |
+| Topic | Labs | Solutions | Index |
+|-------|-----:|----------:|-------|
+| SQL Injection | 18 | ✅ | [sql-injection/](sql-injection/) |
+| Cross-Site Scripting | 33 | ✅ | [cross-site-scripting/](cross-site-scripting/) |
+| CSRF | 11 | ✅ | [cross-site-request-forgery-csrf/](cross-site-request-forgery-csrf/) |
+| Clickjacking | 6 | ✅ | [clickjacking/](clickjacking/) |
+| DOM-based Vulnerabilities | 8 | ✅ | [dom-based-vulnerabilities/](dom-based-vulnerabilities/) |
+| CORS | 4 | ✅ | [cross-origin-resource-sharing-cors/](cross-origin-resource-sharing-cors/) |
+| XXE | 9 | ✅ | [xml-external-entity-xxe-injection/](xml-external-entity-xxe-injection/) |
+| SSRF | 7 | ✅ | [server-side-request-forgery-ssrf/](server-side-request-forgery-ssrf/) |
+| HTTP Request Smuggling | 24 | ✅ | [http-request-smuggling/](http-request-smuggling/) |
+| OS Command Injection | 6 | ✅ | [os-command-injection/](os-command-injection/) |
+| SSTI | 7 | ✅ | [server-side-template-injection/](server-side-template-injection/) |
+| Path Traversal | 6 | ✅ | [path-traversal/](path-traversal/) |
+| Access Control | 14 | ✅ | [access-control-vulnerabilities/](access-control-vulnerabilities/) |
+| Authentication | 15 | ✅ | [authentication/](authentication/) |
+| WebSockets | 3 | ✅ | [websockets/](websockets/) |
+| Web Cache Poisoning | 13 | ✅ | [web-cache-poisoning/](web-cache-poisoning/) |
+| Insecure Deserialization | 10 | ✅ | [insecure-deserialization/](insecure-deserialization/) |
+| Information Disclosure | 7 | ✅ | [information-disclosure/](information-disclosure/) |
+| Business Logic Vulnerabilities | 12 | ✅ | [business-logic-vulnerabilities/](business-logic-vulnerabilities/) |
+| **Total** | **213 labs** | **✅** | |
 
 ## About the lab lists
 
-The lab lists came from a personal tracker (`data.json`) that turned out to
-contain **15 entries that do not exist on the live Academy** (e.g. *H2.TE /
-TE.H2 request smuggling*, *"OS command injection with filter bypass"*,
-*"CORS vulnerability with trusted subdomains"*, several CSP XSS variants).
-Every URL in this repository was **link-checked on 2026-10-17**: each resolved
-link returned HTTP 200 **and** its page title matches the lab name. Ghost
-entries are kept in the tables (marked `—`) with a ⚠️ note pointing to the
-real, live labs of that topic — so the tracker stays honest.
+The initial lab lists came from a personal tracker that contained a handful
+of entries with no live lab page; those rows are kept in the tables marked
+with an em-dash and a note pointing to the real, live labs of that topic.
+Every other row links to a live lab page on portswigger.net.
 
 ## Repository Structure
 
