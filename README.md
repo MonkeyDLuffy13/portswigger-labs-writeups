@@ -9,7 +9,7 @@ official links, and per-lab solution files.
 
 | Topic | Tracker labs | Verified live | Solved | Index |
 |-------|-------------:|--------------:|--------|-------|
-| SQL Injection | 21 | 18 | ✅ 18 solutions | [sql-injection/](sql-injection/) |
+| SQL Injection | 21 | 18 | ✅  | [sql-injection/](sql-injection/) |
 | Cross-Site Scripting | 18 | 15 | ✅ | [cross-site-scripting/](cross-site-scripting/) |
 | CSRF | 5 | 5 | ✅ | [cross-site-request-forgery-csrf/](cross-site-request-forgery-csrf/) |
 | Clickjacking | 3 | 2 | ✅ | [clickjacking/](clickjacking/) |
