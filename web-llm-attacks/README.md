@@ -4,13 +4,13 @@
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|
-| 1 | Bypassing AI scanner defenses to exfiltrate sensitive information | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information) | ✅ [01-scanner-defenses-exfiltration.md](01-scanner-defenses-exfiltration.md) |
-| 2 | Exploiting AI agents to trigger secondary vulnerabilities | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-exploiting-target-website-vulnerabilities-to-bypass-restrictions) | ✅ [02-ai-agent-secondary-vulns.md](02-ai-agent-secondary-vulns.md) |
-| 3 | Exploiting AI agents to perform destructive actions | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-indirect-prompt-injection-via-ai-powered-scan) | ✅ [03-destructive-actions.md](03-destructive-actions.md) |
-| 4 | Exploiting AI agents to exfiltrate sensitive information | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-sensitive-information-exfiltration) | ✅ [04-agent-exfiltration.md](04-agent-exfiltration.md) |
-| 5 | Exploiting insecure output handling in LLMs | EXPERT | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-insecure-output-handling-in-llms) | ✅ [05-insecure-output-handling.md](05-insecure-output-handling.md) |
-| 6 | Exploiting LLM APIs with excessive agency | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency) | ✅ [06-excessive-agency.md](06-excessive-agency.md) |
-| 7 | Exploiting vulnerabilities in LLM APIs | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-vulnerabilities-in-llm-apis) | ✅ [07-llm-api-vulns.md](07-llm-api-vulns.md) |
-| 8 | Indirect prompt injection | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-indirect-prompt-injection) | ✅ [08-indirect-prompt-injection.md](08-indirect-prompt-injection.md) |
+| 1 | Bypassing AI scanner defenses to exfiltrate sensitive information | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information) |
+| 2 | Exploiting AI agents to trigger secondary vulnerabilities | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-exploiting-target-website-vulnerabilities-to-bypass-restrictions) |
+| 3 | Exploiting AI agents to perform destructive actions | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-indirect-prompt-injection-via-ai-powered-scan) |
+| 4 | Exploiting AI agents to exfiltrate sensitive information | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/ai-powered-scanner-vulnerabilities/lab-sensitive-information-exfiltration) |
+| 5 | Exploiting insecure output handling in LLMs | EXPERT | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-insecure-output-handling-in-llms) |
+| 6 | Exploiting LLM APIs with excessive agency | APPRENTICE | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency) |
+| 7 | Exploiting vulnerabilities in LLM APIs | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-vulnerabilities-in-llm-apis) |
+| 8 | Indirect prompt injection | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-indirect-prompt-injection) |
 
 *Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*
