@@ -1,6 +1,6 @@
 # Cross Site Request Forgery Csrf — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **تزوير الطلبات CSRF** · 5 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **تزوير الطلبات CSRF** · 5 labs · ✅ solved — all 5 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 | # | Lab | Level | Official | Solution |

@@ -1,6 +1,6 @@
 # Websockets — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **WebSockets** · 2 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **WebSockets** · 2 labs · ✅ solved — all 2 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 | # | Lab | Level | Official | Solution |

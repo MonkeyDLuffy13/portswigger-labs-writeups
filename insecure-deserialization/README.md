@@ -1,6 +1,6 @@
 # Insecure Deserialization — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **إلغاء التسلسل غير الآمن** · 5 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **إلغاء التسلسل غير الآمن** · 5 labs · ✅ solved — all 5 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 | # | Lab | Level | Official | Solution |

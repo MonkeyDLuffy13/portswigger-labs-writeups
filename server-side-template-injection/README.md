@@ -1,6 +1,6 @@
 # Server Side Template Injection — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **حقن القوالب من جانب الخادم SSTI** · 6 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **حقن القوالب من جانب الخادم SSTI** · 6 labs · ✅ solved — all 6 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 | # | Lab | Level | Official | Solution |

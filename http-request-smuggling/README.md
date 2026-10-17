@@ -1,6 +1,6 @@
 # Http Request Smuggling — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **تهريب طلبات HTTP** · 4 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **تهريب طلبات HTTP** · 4 labs · ✅ solved — all 2 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 > ⚠️ **Link check 2026-10-17:** 2 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:

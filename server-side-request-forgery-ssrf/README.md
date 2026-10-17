@@ -1,6 +1,6 @@
 # Server Side Request Forgery Ssrf — PortSwigger Web Security Academy
 
-> Tracker name (Arabic): **تزوير الطلبات من الخادم SSRF** · 3 labs · ✅ solved — all 0 verified labs
+> Tracker name (Arabic): **تزوير الطلبات من الخادم SSRF** · 3 labs · ✅ solved — all 3 verified labs
 > Link-checked: 2026-10-17 — every resolved URL was verified live (HTTP 200 + matching page title).
 
 | # | Lab | Level | Official | Solution |
