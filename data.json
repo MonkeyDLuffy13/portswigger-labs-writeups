@@ -1,5 +1,5 @@
 {
- "حقن SQL": {
+ "sql-injection": {
   "icon": "💻",
   "color": "#3b82f6",
   "slug": "sql-injection",
@@ -109,9 +109,10 @@
     "d": "Expert",
     "u": "/web-security/sql-injection/filter-bypass-comment-injection"
    }
-  ]
+  ],
+  "name": "SQL injection"
  },
- "هجمات XSS": {
+ "cross-site-scripting": {
   "icon": "💥",
   "color": "#ef4444",
   "slug": "cross-site-scripting",
@@ -206,9 +207,10 @@
     "d": "Practitioner",
     "u": "/web-security/cross-site-scripting/exploiting-capturing-passwords"
    }
-  ]
+  ],
+  "name": "Cross-site scripting"
  },
- "تزوير الطلبات CSRF": {
+ "cross-site-request-forgery-csrf": {
   "icon": "🔒",
   "color": "#a855f7",
   "slug": "cross-site-request-forgery-csrf",
@@ -238,9 +240,10 @@
     "d": "Expert",
     "u": "/web-security/csrf/csrf-referer-validation-depends-on-token"
    }
-  ]
+  ],
+  "name": "Cross-site request forgery (CSRF)"
  },
- "خداع النقر Clickjacking": {
+ "clickjacking": {
   "icon": "💠",
   "color": "#ec4899",
   "slug": "clickjacking",
@@ -260,9 +263,10 @@
     "d": "Expert",
     "u": "/web-security/clickjacking/sandbox-frame-buster"
    }
-  ]
+  ],
+  "name": "Clickjacking"
  },
- "ثغرات DOM": {
+ "dom-based-vulnerabilities": {
   "icon": "🌐",
   "color": "#14b8a6",
   "slug": "dom-based-vulnerabilities",
@@ -282,9 +286,10 @@
     "d": "Expert",
     "u": "/web-security/dom-based/dom-clobbering"
    }
-  ]
+  ],
+  "name": "DOM-based vulnerabilities"
  },
- "CORS مشاركة الموارد": {
+ "cross-origin-resource-sharing-cors": {
   "icon": "🔗",
   "color": "#f59e0b",
   "slug": "cross-origin-resource-sharing-cors",
@@ -309,9 +314,10 @@
     "d": "Expert",
     "u": "/web-security/cors/insecure-protocol"
    }
-  ]
+  ],
+  "name": "Cross-origin resource sharing (CORS)"
  },
- "حقن كيانات XML XXE": {
+ "xml-external-entity-xxe-injection": {
   "icon": "📄",
   "color": "#6366f1",
   "slug": "xml-external-entity-xxe-injection",
@@ -336,9 +342,10 @@
     "d": "Expert",
     "u": "/web-security/xxe/blind-xxe-with-out-of-band-oob-via-xml-parameter-entity"
    }
-  ]
+  ],
+  "name": "XML external entity (XXE) injection"
  },
- "تزوير الطلبات من الخادم SSRF": {
+ "server-side-request-forgery-ssrf": {
   "icon": "🚪",
   "color": "#8b5cf6",
   "slug": "server-side-request-forgery-ssrf",
@@ -358,9 +365,10 @@
     "d": "Expert",
     "u": "/web-security/ssrf/ssrf-with-filter-bypass-via-open-redirect"
    }
-  ]
+  ],
+  "name": "Server-side request forgery (SSRF)"
  },
- "تهريب طلبات HTTP": {
+ "http-request-smuggling": {
   "icon": "📦",
   "color": "#0ea5e9",
   "slug": "http-request-smuggling",
@@ -385,9 +393,10 @@
     "d": "Expert",
     "u": "/web-security/request-smuggling/lab-te-h2"
    }
-  ]
+  ],
+  "name": "HTTP request smuggling"
  },
- "حقن أوامر النظام": {
+ "os-command-injection": {
   "icon": "🖥️",
   "color": "#dc2626",
   "slug": "os-command-injection",
@@ -412,9 +421,10 @@
     "d": "Expert",
     "u": "/web-security/os-command-injection/lab-filter-bypass"
    }
-  ]
+  ],
+  "name": "OS command injection"
  },
- "حقن القوالب من جانب الخادم SSTI": {
+ "server-side-template-injection": {
   "icon": "📐",
   "color": "#7c3aed",
   "slug": "server-side-template-injection",
@@ -449,9 +459,10 @@
     "d": "Expert",
     "u": "/web-security/ssti/sandboxed-code-environment"
    }
-  ]
+  ],
+  "name": "Server-side template injection"
  },
- "اجتياز المسارات Path Traversal": {
+ "path-traversal": {
   "icon": "📂",
   "color": "#059669",
   "slug": "path-traversal",
@@ -486,9 +497,10 @@
     "d": "Expert",
     "u": "/web-security/path-traversal/lab-extension-filter-null-byte-bypass"
    }
-  ]
+  ],
+  "name": "Path traversal"
  },
- "ثغرات التحكم في الوصول": {
+ "access-control-vulnerabilities": {
   "icon": "🛡️",
   "color": "#e11d48",
   "slug": "access-control-vulnerabilities",
@@ -518,9 +530,10 @@
     "d": "Apprentice",
     "u": "/web-security/access-control/lab-url-based-access-control"
    }
-  ]
+  ],
+  "name": "Access control vulnerabilities"
  },
- "المصادقة Authentication": {
+ "authentication": {
   "icon": "🔑",
   "color": "#d97706",
   "slug": "authentication",
@@ -550,9 +563,10 @@
     "d": "Expert",
     "u": "/web-security/authentication/multi-factor/2fa-brute-force"
    }
-  ]
+  ],
+  "name": "Authentication"
  },
- "WebSockets": {
+ "websockets": {
   "icon": "🔌",
   "color": "#0d9488",
   "slug": "websockets",
@@ -567,9 +581,10 @@
     "d": "Expert",
     "u": "/web-security/websockets/manipulating-handshake"
    }
-  ]
+  ],
+  "name": "WebSockets"
  },
- "تسميم الكاش Web Cache Poisoning": {
+ "web-cache-poisoning": {
   "icon": "🕸️",
   "color": "#7e22ce",
   "slug": "web-cache-poisoning",
@@ -599,9 +614,10 @@
     "d": "Practitioner",
     "u": "/web-security/cache-poisoning/web-cache-deception"
    }
-  ]
+  ],
+  "name": "Web cache poisoning"
  },
- "إلغاء التسلسل غير الآمن": {
+ "insecure-deserialization": {
   "icon": "🔮",
   "color": "#be185d",
   "slug": "insecure-deserialization",
@@ -631,9 +647,10 @@
     "d": "Expert",
     "u": "/web-security/deserialization/exploiting-ruby-deserialization"
    }
-  ]
+  ],
+  "name": "Insecure deserialization"
  },
- "تسريب المعلومات": {
+ "information-disclosure": {
   "icon": "👁️",
   "color": "#64748b",
   "slug": "information-disclosure",
@@ -663,9 +680,10 @@
     "d": "Practitioner",
     "u": "/web-security/information-disclosure/user-controlled-html"
    }
-  ]
+  ],
+  "name": "Information disclosure"
  },
- "ثغرات المنطق التجاري": {
+ "business-logic-vulnerabilities": {
   "icon": "🧠",
   "color": "#0891b2",
   "slug": "business-logic-vulnerabilities",
@@ -690,6 +708,7 @@
     "d": "Expert",
     "u": "/web-security/logic-flaws/inconsistent-security-controls"
    }
-  ]
+  ],
+  "name": "Business logic vulnerabilities"
  }
 }

@@ -3,6 +3,8 @@
 > **Practitioner** · [Official lab](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-ssrf-via-flawed-request-parsing)
 
 **Entry point:** Host is validated — but supplying an **absolute URL in the
+
+> 🔧 **Burp Community alternative:** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) (DNS + HTTP). Substitute its domain wherever this write-up says Collaborator/Collaborator payload.
 request line** makes the validator check that instead, while the Host is
 used for routing.
 
