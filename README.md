@@ -37,7 +37,7 @@ official links, and per-lab solution files.
 | Prototype Pollution | 10 | ✅ 10 solutions | [prototype-pollution/](prototype-pollution/) |
 | Web LLM Attacks | 8 | ✅ 8 solutions | [web-llm-attacks/](web-llm-attacks/) |
 | Web Cache Deception | 5 | ✅ 5 solutions | [web-cache-deception/](web-cache-deception/) |
-| **Total** | **271 labs** | **✅ 259 solutions** | |
+| **Total** | **271 labs** | ✅ |
 
 ## About the lab lists
 
