@@ -15,4 +15,3 @@
 | 9 | Privilege escalation via server-side prototype pollution | PRACTITIONER | [lab](https://portswigger.net/web-security/prototype-pollution/server-side/lab-privilege-escalation-via-server-side-prototype-pollution) |
 | 10 | Remote code execution via server-side prototype pollution | PRACTITIONER | [lab](https://portswigger.net/web-security/prototype-pollution/server-side/lab-remote-code-execution-via-server-side-prototype-pollution) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

@@ -11,4 +11,3 @@
 | 6 | Server-side template injection in a sandboxed environment | EXPERT | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment) |
 | 7 | Server-side template injection with a custom exploit | EXPERT | [lab](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

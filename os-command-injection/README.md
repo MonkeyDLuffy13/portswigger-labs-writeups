@@ -14,4 +14,3 @@
 | 5 | Blind OS command injection with out-of-band data exfiltration | PRACTITIONER | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band) |
 | 6 | Blind OS command injection with out-of-band data exfiltration | — | [lab](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band-data-exfiltration) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

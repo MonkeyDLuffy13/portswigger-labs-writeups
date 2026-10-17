@@ -7,4 +7,3 @@
 | 1 | Discovering vulnerabilities quickly with targeted scanning | PRACTITIONER | [lab](https://portswigger.net/web-security/essential-skills/using-burp-scanner-during-manual-testing/lab-discovering-vulnerabilities-quickly-with-targeted-scanning) |
 | 2 | Scanning non-standard data structures | PRACTITIONER | [lab](https://portswigger.net/web-security/essential-skills/using-burp-scanner-during-manual-testing/lab-scanning-non-standard-data-structures) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

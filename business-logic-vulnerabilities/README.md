@@ -16,4 +16,3 @@
 | 11 | Insufficient workflow validation | PRACTITIONER | [lab](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-insufficient-workflow-validation) |
 | 12 | Weak isolation on dual-use endpoint | PRACTITIONER | [lab](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-weak-isolation-on-dual-use-endpoint) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

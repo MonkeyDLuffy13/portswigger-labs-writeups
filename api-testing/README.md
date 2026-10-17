@@ -10,4 +10,3 @@
 | 4 | Exploiting server-side parameter pollution in a query string | PRACTITIONER | [lab](https://portswigger.net/web-security/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-query-string) |
 | 5 | Exploiting server-side parameter pollution in a REST URL | EXPERT | [lab](https://portswigger.net/web-security/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-rest-url) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

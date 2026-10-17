@@ -15,4 +15,3 @@
 | 6 | DOM-based open redirection | PRACTITIONER | [lab](https://portswigger.net/web-security/dom-based/open-redirection/lab-dom-open-redirection) |
 | 7 | DOM XSS using web messages and a JavaScript URL | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

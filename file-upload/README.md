@@ -12,4 +12,3 @@
 | 6 | Web shell upload via extension blacklist bypass | PRACTITIONER | [lab](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass) |
 | 7 | Web shell upload via race condition | EXPERT | [lab](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

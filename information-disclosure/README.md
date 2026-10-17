@@ -16,4 +16,3 @@
 | 6 | Information disclosure via user-controlled HTML | — | — |
 | 7 | Information disclosure in version control history | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

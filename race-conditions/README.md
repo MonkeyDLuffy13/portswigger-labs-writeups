@@ -11,4 +11,3 @@
 | 5 | Exploiting time-sensitive vulnerabilities | PRACTITIONER | [lab](https://portswigger.net/web-security/race-conditions/lab-race-conditions-exploiting-time-sensitive-vulnerabilities) |
 | 6 | Partial construction race conditions | EXPERT | [lab](https://portswigger.net/web-security/race-conditions/lab-race-conditions-partial-construction) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

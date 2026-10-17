@@ -7,4 +7,3 @@
 | 2 | Manipulating the WebSocket handshake to exploit vulnerabilities | PRACTITIONER | [lab](https://portswigger.net/web-security/websockets/lab-manipulating-handshake-to-exploit-vulnerabilities) |
 | 3 | Cross-site WebSocket hijacking | PRACTITIONER | [lab](https://portswigger.net/web-security/websockets/cross-site-websocket-hijacking/lab) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

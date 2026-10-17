@@ -11,4 +11,3 @@
 | 6 | Blind SSRF with Shellshock exploitation | EXPERT | [lab](https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation) |
 | 7 | SSRF with whitelist-based input filter | EXPERT | [lab](https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

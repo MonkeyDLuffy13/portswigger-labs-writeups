@@ -11,4 +11,3 @@
 | 5 | Stealing OAuth access tokens via an open redirect | PRACTITIONER | [lab](https://portswigger.net/web-security/oauth/lab-oauth-stealing-oauth-access-tokens-via-an-open-redirect) |
 | 6 | SSRF via OpenID dynamic client registration | PRACTITIONER | [lab](https://portswigger.net/web-security/oauth/openid/lab-oauth-ssrf-via-openid-dynamic-client-registration) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

@@ -14,4 +14,3 @@
 | 5 | Multistep clickjacking | PRACTITIONER | [lab](https://portswigger.net/web-security/clickjacking/lab-multistep) |
 | 6 | Clickjacking with a frame-buster via the sandbox attribute | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

@@ -10,4 +10,3 @@
 | 4 | Finding a hidden GraphQL endpoint | PRACTITIONER | [lab](https://portswigger.net/web-security/graphql/lab-graphql-find-the-endpoint) |
 | 5 | Accessing private GraphQL posts | APPRENTICE | [lab](https://portswigger.net/web-security/graphql/lab-graphql-reading-private-posts) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

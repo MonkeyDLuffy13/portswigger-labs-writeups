@@ -18,4 +18,3 @@
 | 13 | User ID controlled by request parameter | APPRENTICE | [lab](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter) |
 | 14 | User ID controlled by request parameter, with unpredictable user IDs | APPRENTICE | [lab](https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

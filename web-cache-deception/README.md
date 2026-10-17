@@ -10,4 +10,3 @@
 | 4 | Exploiting cache server normalization for web cache deception | PRACTITIONER | [lab](https://portswigger.net/web-security/web-cache-deception/lab-wcd-exploiting-cache-server-normalization) |
 | 5 | Exploiting exact-match cache rules for web cache deception | EXPERT | [lab](https://portswigger.net/web-security/web-cache-deception/lab-wcd-exploiting-exact-match-cache-rules) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

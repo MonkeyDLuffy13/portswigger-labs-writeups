@@ -33,4 +33,3 @@
 | 23 | H2.TE vulnerability | — | — |
 | 24 | TE.H2 vulnerability | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

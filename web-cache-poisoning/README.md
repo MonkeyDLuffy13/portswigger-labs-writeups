@@ -17,4 +17,3 @@
 | 12 | Web cache poisoning via a fat GET request | PRACTITIONER | [lab](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-fat-get) |
 | 13 | Web cache poisoning: URL normalization | — | [lab](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-normalization) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

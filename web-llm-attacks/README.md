@@ -13,4 +13,3 @@
 | 7 | Exploiting vulnerabilities in LLM APIs | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-exploiting-vulnerabilities-in-llm-apis) |
 | 8 | Indirect prompt injection | PRACTITIONER | [lab](https://portswigger.net/web-security/llm-attacks/lab-indirect-prompt-injection) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

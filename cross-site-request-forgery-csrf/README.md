@@ -15,4 +15,3 @@
 | 10 | SameSite Strict bypass via client-side redirect | PRACTITIONER | [lab](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-client-side-redirect) |
 | 11 | SameSite Strict bypass via sibling domain | PRACTITIONER | [lab](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-sibling-domain) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

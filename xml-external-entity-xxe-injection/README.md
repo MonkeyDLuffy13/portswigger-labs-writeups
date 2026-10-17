@@ -13,4 +13,3 @@
 | 8 | Exploiting blind XXE to exfiltrate data using a malicious external DTD | PRACTITIONER | [lab](https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd) |
 | 9 | Exploiting blind XXE to retrieve data via error messages | PRACTITIONER | [lab](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

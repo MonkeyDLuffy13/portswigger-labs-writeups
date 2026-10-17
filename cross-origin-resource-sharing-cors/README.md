@@ -11,5 +11,4 @@
 | 2 | CORS vulnerability with trusted null origin | APPRENTICE | [lab](https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack) |
 | 3 | CORS vulnerability with trusted insecure protocols | PRACTITIONER | [lab]() |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*
 \1\u2705 [03-insecure-protocol.md](03-insecure-protocol.md) |

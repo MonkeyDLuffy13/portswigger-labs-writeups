@@ -43,4 +43,3 @@
 | 32 | Reflected XSS protected by very strict CSP, with dangling markup attack | — | — |
 | 33 | Reflected XSS with AngularJS sandbox escape without strings | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

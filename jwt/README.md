@@ -13,4 +13,3 @@
 | 7 | JWT authentication bypass via unverified signature | APPRENTICE | [lab](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-unverified-signature) |
 | 8 | JWT authentication bypass via weak signing key | PRACTITIONER | [lab](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-weak-signing-key) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

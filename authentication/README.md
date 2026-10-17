@@ -23,4 +23,3 @@
 | 14 | Username enumeration via response timing | PRACTITIONER | [lab](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing) |
 | 15 | Brute-forcing a stay-logged-in cookie | — | — |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

@@ -14,4 +14,3 @@
 | 9 | Developing a custom gadget chain for PHP deserialization | EXPERT | [lab](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-developing-a-custom-gadget-chain-for-php-deserialization) |
 | 10 | Using PHAR deserialization to deploy a custom gadget chain | EXPERT | [lab](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-using-phar-deserialization-to-deploy-a-custom-gadget-chain) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

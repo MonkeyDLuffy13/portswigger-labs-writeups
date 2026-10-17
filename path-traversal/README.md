@@ -10,4 +10,3 @@
 | 5 | File path traversal, validation of start of path | PRACTITIONER | [lab](https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path) |
 | 6 | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | [lab](https://portswigger.net/web-security/file-path-traversal/lab-validate-file-extension-null-byte-bypass) |
 
-*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*

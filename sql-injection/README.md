@@ -9,7 +9,6 @@ and a short mitigation note.
 
 | # | Lab | Level | Official |
 
-*Solution write-ups: the numbered files in this folder (`01-...`, `02-...`) are the full solutions for each lab.*
 |---|-----|-------|----------|
 | 01 | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Apprentice | [lab](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data) |
 | 02 | SQL injection vulnerability allowing login bypass | Apprentice | [lab](https://portswigger.net/web-security/sql-injection/lab-login-bypass) |
