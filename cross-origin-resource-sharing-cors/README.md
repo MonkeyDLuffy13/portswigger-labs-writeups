@@ -6,10 +6,10 @@
 - *"CORS vulnerability with trusted subdomains"*
 
 | # | Lab | Level | Official |
-
-*Solution write-ups: the numbered files in this folder (`01-...`, `02-...`) are the full solutions for each lab.*
 |---|-----|-------|----------|
-| 1 | CORS vulnerability with basic origin reflection | Practitioner | [lab](https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack) |
-| 2 | CORS vulnerability with trusted null origin | Practitioner | [lab](https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack) |
-| 3 | CORS vulnerability with trusted subdomains | Expert | PRACTITIONER |
+| 1 | CORS vulnerability with basic origin reflection | APPRENTICE | [lab](https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack) | ✅ [01-basic-origin-reflection.md](01-basic-origin-reflection.md) |
+| 2 | CORS vulnerability with trusted null origin | APPRENTICE | [lab](https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack) | ✅ [02-trusted-null-origin.md](02-trusted-null-origin.md) |
+| 3 | CORS vulnerability with trusted insecure protocols | PRACTITIONER | [lab]() | ✅ [03-insecure-protocol.md](03-insecure-protocol.md) |
+
+*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*
 \1\u2705 [03-insecure-protocol.md](03-insecure-protocol.md) |

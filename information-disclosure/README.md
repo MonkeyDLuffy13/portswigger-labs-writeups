@@ -7,13 +7,13 @@
 - *"Information disclosure via user-controlled HTML"*
 
 | # | Lab | Level | Official |
-
-*Solution write-ups: the numbered files in this folder (`01-...`, `02-...`) are the full solutions for each lab.*
 |---|-----|-------|----------|
-| 1 | Information disclosure in error messages | Apprentice | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages) |
-| 2 | Information disclosure on sensitive development environment | Apprentice | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-on-debug-page) |
-| 3 | Information disclosure via backup files | Apprentice | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-via-backup-files) |
-| 4 | Information disclosure via source code in a JavaScript file | Practitioner | — |
-| 5 | Information disclosure via user-controlled HTML | Practitioner | — |
-| 6 | Lab: Authentication bypass via information disclosure | Web Security Academy | APPRENTICE | ✅ [06-authentication-bypass.md](06-authentication-bypass.md) |
-| 7 | Lab: Information disclosure in version control history | Web Security Academy | PRACTITIONER | ✅ [07-version-control-history.md](07-version-control-history.md) |
+| 1 | Information disclosure in error messages | APPRENTICE | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages) | ✅ [01-error-messages.md](01-error-messages.md) |
+| 2 | Information disclosure on debug page | APPRENTICE | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-on-debug-page) | ✅ [02-debug-page.md](02-debug-page.md) |
+| 3 | Source code disclosure via backup files | APPRENTICE | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-via-backup-files) | ✅ [03-backup-files.md](03-backup-files.md) |
+| 4 | Authentication bypass via information disclosure | APPRENTICE | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-authentication-bypass) | ✅ [06-authentication-bypass.md](06-authentication-bypass.md) |
+| 5 | Information disclosure in version control history | PRACTITIONER | [lab](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-version-control-history) | ✅ [07-version-control-history.md](07-version-control-history.md) |
+| 6 | Information disclosure via user-controlled HTML | — | — | — |
+| 7 | Information disclosure in version control history | — | — | — |
+
+*Solution write-ups: the numbered files in this folder (01-..., 02-...) are the full solutions for each lab.*
