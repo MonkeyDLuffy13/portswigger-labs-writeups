@@ -39,6 +39,24 @@ official links, and per-lab solution files.
 | Web Cache Deception | 5 | ✅ 5 solutions | [web-cache-deception/](web-cache-deception/) |
 | **Total** | **271 labs** | ✅ |
 
+## Tooling — no Burp Pro required
+
+Every write-up is solvable with **Burp Community Edition** plus free tools:
+
+- **Out-of-band labs** (blind XXE, blind SSRF, blind command injection):
+  Collaborator is Pro-only — use a free OOB service such as
+  [interact.sh](https://interact.sh), [canarytokens.org](https://canarytokens.org)
+  (DNS + HTTP) or [webhook.site](https://webhook.site) (HTTP). Each affected
+  write-up carries a 🔧 note with the substitution.
+- **CSRF PoCs**: built manually from the included HTML forms (the PoC
+  generator is Pro-only).
+- **Brute-force loops with re-login macros** (2FA brute force, infinite
+  money): ready Python scripts are included in the write-ups.
+- **Content discovery / comments**: page source review or free tools
+  (ffuf/gobuster).
+- Free extensions that work in Community: JWT Editor, Param Miner,
+  Turbo Intruder, DOM Invader.
+
 ## About the lab lists
 
 The initial lab lists came from a personal tracker that contained a handful

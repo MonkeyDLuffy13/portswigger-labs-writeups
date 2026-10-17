@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-targeted-using-an-unknown-header)
 
 **Entry point:** `X-Host` (found by Param Miner) drives the
+
+> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
 `/resources/js/tracking.js` import — and the cache varies on `User-Agent`.
 
 ## Solution

@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages)
 
 **Entry point:** `POST /product/stock` (blind) · exfil via **error
+
+> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
 messages** instead of Collaborator.
 
 ## Solution

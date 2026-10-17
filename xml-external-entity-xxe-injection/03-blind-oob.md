@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/xxe/blind-xxe-with-out-of-band-interaction)
 
 **Entry point:** `POST /product/stock` — parsed but never echoed; no error
+
+> 🔧 **Burp Community alternative:** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) give you a unique subdomain with **DNS + HTTP** logging (HTTP-only option: [webhook.site](https://webhook.site)). Substitute its domain wherever this write-up says `YOUR-COLLABORATOR-SUBDOMAIN`.
 output. **Tool:** Burp Collaborator.
 
 ## Solution

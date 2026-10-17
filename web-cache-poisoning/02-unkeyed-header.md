@@ -3,6 +3,8 @@
 > **Practitioner** · [Official lab](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-header)
 
 **Entry point:** an unkeyed request header is reflected into the response —
+
+> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
 inside the URL of an imported JavaScript resource.
 
 ## Solution

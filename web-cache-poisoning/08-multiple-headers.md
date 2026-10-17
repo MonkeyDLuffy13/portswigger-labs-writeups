@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-multiple-headers)
 
 **Entry point:** two unkeyed headers must be combined — neither is enough
+
+> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
 alone.
 
 ## Solution

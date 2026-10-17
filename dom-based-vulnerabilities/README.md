@@ -10,7 +10,7 @@
 |---|-----|-------|----------|----------|
 | 1 | DOM XSS using web messages | Practitioner | [lab](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages) | ✅ [01-web-messages.md](01-web-messages.md) |
 | 2 | DOM XSS using web messages and an iframe | Practitioner | — | ✅ [02-dom-clobbering.md](02-dom-clobbering.md) |
-| 3 | DOM clobbering | Expert | [lab](https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-xss-exploiting-dom-clobbering) | — |
+\1\u2705 [02-dom-clobbering.md](02-dom-clobbering.md) |
 | 4 | Lab: Clobbering DOM attributes to bypass HTML filters | Web Security Academy | — | [lab](https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters) | ✅ [04-clobbering-attributes-filter.md](04-clobbering-attributes-filter.md) |
 | 5 | Lab: DOM XSS using web messages and JSON.parse | Web Security Academy | — | [lab](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-json-parse) | ✅ [05-web-messages-json-parse.md](05-web-messages-json-parse.md) |
 | 6 | Lab: DOM XSS using web messages and a JavaScript URL | Web Security Academy | — | [lab](https://portswigger.net/web-security/dom-based/controlling-the-web-message-source/lab-dom-xss-using-web-messages-and-a-javascript-url) | ✅ [06-web-messages-javascript-url.md](06-web-messages-javascript-url.md) |

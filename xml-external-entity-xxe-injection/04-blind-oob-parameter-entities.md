@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/xxe/blind-xxe-with-out-of-band-interaction-via-xml-parameter-entity)
 
 **Entry point:** `POST /product/stock` · **Obstacle:** the request may not
+
+> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
 contain a DOCTYPE (blocked), so smuggle it via a **local DTD trick**.
 
 ## Solution

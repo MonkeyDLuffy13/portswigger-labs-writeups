@@ -3,6 +3,8 @@
 > **Expert** · [Official lab](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band)
 
 **Entry point:** `POST /feedback` (`email` field) — blind, but the server
+
+> 🔧 **Burp Community alternative:** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) give you a unique subdomain with **DNS + HTTP** logging (HTTP-only option: [webhook.site](https://webhook.site)). Substitute its domain wherever this write-up says `YOUR-COLLABORATOR-SUBDOMAIN`.
 can make DNS requests. **Tool:** Burp Collaborator.
 
 ## Solution
