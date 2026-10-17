@@ -28,7 +28,7 @@ official links, and per-lab solution files.
 | Insecure Deserialization | 10 | ✅ | [insecure-deserialization/](insecure-deserialization/) |
 | Information Disclosure | 7 | ✅ | [information-disclosure/](information-disclosure/) |
 | Business Logic Vulnerabilities | 12 | ✅ | [business-logic-vulnerabilities/](business-logic-vulnerabilities/) |
-| **Total** | **213 labs** | **✅** | |
+| **Total** | **213 labs** | **✅ 201 solutions** | |
 
 ## About the lab lists
 
