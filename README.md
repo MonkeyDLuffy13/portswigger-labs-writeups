@@ -28,14 +28,23 @@ official links, and per-lab solution files.
 | Insecure Deserialization | 10 | ✅ | [insecure-deserialization/](insecure-deserialization/) |
 | Information Disclosure | 7 | ✅ | [information-disclosure/](information-disclosure/) |
 | Business Logic Vulnerabilities | 12 | ✅ | [business-logic-vulnerabilities/](business-logic-vulnerabilities/) |
-| **Total** | **213 labs** | ✅ | |
+| API Testing | 5 | ✅ 5 solutions | [api-testing/](api-testing/) |
+| GraphQL API Vulnerabilities | 5 | ✅ 5 solutions | [graphql/](graphql/) |
+| JWT Attacks | 8 | ✅ 8 solutions | [jwt/](jwt/) |
+| OAuth Authentication | 6 | ✅ 6 solutions | [oauth/](oauth/) |
+| File Upload Vulnerabilities | 7 | ✅ 7 solutions | [file-upload/](file-upload/) |
+| NoSQL Injection | 4 | ✅ 4 solutions | [nosql-injection/](nosql-injection/) |
+| Prototype Pollution | 10 | ✅ 10 solutions | [prototype-pollution/](prototype-pollution/) |
+| Web LLM Attacks | 8 | ✅ 8 solutions | [web-llm-attacks/](web-llm-attacks/) |
+| Web Cache Deception | 5 | ✅ 5 solutions | [web-cache-deception/](web-cache-deception/) |
+| **Total** | **271 labs** | **✅ 259 solutions** | |
 
 ## About the lab lists
 
 The initial lab lists came from a personal tracker that contained a handful
 of entries with no live lab page; those rows are kept in the tables marked
 with an em-dash and a note pointing to the real, live labs of that topic.
-Every other row links to a live lab page on portswigger.net.
+Every other row links to a live lab page on portswigger.net. The catalog was built by enumerating the live Academy site directly (273 labs published), so the repository covers every current topic.
 
 ## Repository Structure
 
