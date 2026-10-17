@@ -1,0 +1,695 @@
+{
+ "حقن SQL": {
+  "icon": "💻",
+  "color": "#3b82f6",
+  "slug": "sql-injection",
+  "labs": [
+   {
+    "n": "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data",
+    "d": "Apprentice",
+    "u": "/web-security/sql-injection/lab-retrieve-hidden-data"
+   },
+   {
+    "n": "SQL injection vulnerability allowing login bypass",
+    "d": "Apprentice",
+    "u": "/web-security/sql-injection/lab-login-bypass"
+   },
+   {
+    "n": "SQL injection UNION attack, determining the number of columns returned by the query",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/union-attack-determining-number-of-columns"
+   },
+   {
+    "n": "SQL injection UNION attack, finding a column containing text",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/union-attack-finding-column-containing-text"
+   },
+   {
+    "n": "SQL injection UNION attack, retrieving data from other tables",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/union-attack-retrieving-data-from-other-tables"
+   },
+   {
+    "n": "SQL injection UNION attack, retrieving multiple values in a single column",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/union-attack-retrieving-multiple-values-single-column"
+   },
+   {
+    "n": "SQL injection attack, querying the database type and version on Oracle",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/querying-database-version-oracle"
+   },
+   {
+    "n": "SQL injection attack, querying the database type and version on MySQL and Microsoft",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/querying-database-version-mysql-microsoft"
+   },
+   {
+    "n": "SQL injection attack, listing the database contents on non-Oracle databases",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/listing-database-contents-non-oracle"
+   },
+   {
+    "n": "SQL injection attack, listing the database contents on Oracle",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/listing-database-contents-oracle"
+   },
+   {
+    "n": "Blind SQL injection with conditional responses",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/blind-data-exfiltration"
+   },
+   {
+    "n": "Blind SQL injection with conditional errors",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/blind-conditional-errors"
+   },
+   {
+    "n": "Blind SQL injection with time delays",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/blind-time-delays"
+   },
+   {
+    "n": "Blind SQL injection with time delays and information retrieval",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/blind-time-delays-info-retrieval"
+   },
+   {
+    "n": "Blind SQL injection with out-of-band interaction",
+    "d": "Expert",
+    "u": "/web-security/sql-injection/blind-oob"
+   },
+   {
+    "n": "Blind SQL injection with out-of-band data exfiltration",
+    "d": "Expert",
+    "u": "/web-security/sql-injection/blind-oob-data-exfiltration"
+   },
+   {
+    "n": "Visible error-based SQL injection",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/error-based"
+   },
+   {
+    "n": "SQL injection with filter bypass via XML encoding",
+    "d": "Expert",
+    "u": "/web-security/sql-injection/filter-bypass-xml-encoding"
+   },
+   {
+    "n": "SQL injection with filter bypass via escaped string processing",
+    "d": "Expert",
+    "u": "/web-security/sql-injection/filter-bypass-escaped-strings"
+   },
+   {
+    "n": "SQL injection attack, listing the database contents on PostgreSQL",
+    "d": "Practitioner",
+    "u": "/web-security/sql-injection/listing-database-contents-postgresql"
+   },
+   {
+    "n": "SQL injection with filter bypass via comment injection",
+    "d": "Expert",
+    "u": "/web-security/sql-injection/filter-bypass-comment-injection"
+   }
+  ]
+ },
+ "هجمات XSS": {
+  "icon": "💥",
+  "color": "#ef4444",
+  "slug": "cross-site-scripting",
+  "labs": [
+   {
+    "n": "Reflected XSS into HTML context with nothing encoded",
+    "d": "Apprentice",
+    "u": "/web-security/cross-site-scripting/reflected"
+   },
+   {
+    "n": "Stored XSS into HTML context with nothing encoded",
+    "d": "Apprentice",
+    "u": "/web-security/cross-site-scripting/stored"
+   },
+   {
+    "n": "DOM XSS in document.write sink using source location.search",
+    "d": "Apprentice",
+    "u": "/web-security/cross-site-scripting/dom-based"
+   },
+   {
+    "n": "DOM XSS in innerHTML sink using source location.search",
+    "d": "Apprentice",
+    "u": "/web-security/cross-site-scripting/innerHTML"
+   },
+   {
+    "n": "Reflected XSS into HTML context with most tags and attributes blocked",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/allowed-tags"
+   },
+   {
+    "n": "Reflected XSS into a JavaScript string with single quote and backslash escaped",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/javascript-string"
+   },
+   {
+    "n": "Reflected XSS into a JavaScript string with angle brackets HTML encoded",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/javascript-string-html-encoded"
+   },
+   {
+    "n": "DOM XSS in document.write sink using source location.search inside a select element",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/document-write-select"
+   },
+   {
+    "n": "DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/angularjs-expression"
+   },
+   {
+    "n": "Reflected XSS into a template literal with angle brackets, single, double quotes, and backslash escaped",
+    "d": "Expert",
+    "u": "/web-security/cross-site-scripting/template-literal"
+   },
+   {
+    "n": "DOM XSS in AngularJS expression with simplified sandbox escape",
+    "d": "Expert",
+    "u": "/web-security/cross-site-scripting/angularjs-sandbox-escape"
+   },
+   {
+    "n": "Reflected XSS blocked by CSP with unsafe-eval and script-src restricted to a CDN",
+    "d": "Expert",
+    "u": "/web-security/cross-site-scripting/content-security-policy"
+   },
+   {
+    "n": "Stored XSS blocked by CSP, with CSP bypass via an upload",
+    "d": "Expert",
+    "u": "/web-security/cross-site-scripting/content-security-policy-upload-bypass"
+   },
+   {
+    "n": "Reflected XSS with some SVG markup allowed",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/svg-markup"
+   },
+   {
+    "n": "Reflected XSS with event handlers and href attributes blocked",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/event-handlers-href"
+   },
+   {
+    "n": "Reflected XSS in a canonical link tag",
+    "d": "Expert",
+    "u": "/web-security/cross-site-scripting/canonical-link-tag"
+   },
+   {
+    "n": "Exploiting XSS to steal cookies",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/exploiting-stealing-cookies"
+   },
+   {
+    "n": "Exploiting XSS to capture passwords",
+    "d": "Practitioner",
+    "u": "/web-security/cross-site-scripting/exploiting-capturing-passwords"
+   }
+  ]
+ },
+ "تزوير الطلبات CSRF": {
+  "icon": "🔒",
+  "color": "#a855f7",
+  "slug": "cross-site-request-forgery-csrf",
+  "labs": [
+   {
+    "n": "CSRF vulnerability with no defenses",
+    "d": "Apprentice",
+    "u": "/web-security/csrf/csrf-with-no-defenses"
+   },
+   {
+    "n": "CSRF token validation depends on request method",
+    "d": "Practitioner",
+    "u": "/web-security/csrf/csrf-token-validation-depends-on-method"
+   },
+   {
+    "n": "CSRF token not tied to user session",
+    "d": "Practitioner",
+    "u": "/web-security/csrf/csrf-token-not-tied-to-user-session"
+   },
+   {
+    "n": "CSRF token tied to non-session cookie",
+    "d": "Expert",
+    "u": "/web-security/csrf/csrf-token-tied-to-non-session-cookie"
+   },
+   {
+    "n": "CSRF referer validation depends on token being present",
+    "d": "Expert",
+    "u": "/web-security/csrf/csrf-referer-validation-depends-on-token"
+   }
+  ]
+ },
+ "خداع النقر Clickjacking": {
+  "icon": "💠",
+  "color": "#ec4899",
+  "slug": "clickjacking",
+  "labs": [
+   {
+    "n": "Basic clickjacking with CSRF token protection",
+    "d": "Practitioner",
+    "u": "/web-security/clickjacking/basic-csrf-protected"
+   },
+   {
+    "n": "Clickjacking with frame-busting script",
+    "d": "Expert",
+    "u": "/web-security/clickjacking/frame-busting-script"
+   },
+   {
+    "n": "Clickjacking with a frame-buster via the sandbox attribute",
+    "d": "Expert",
+    "u": "/web-security/clickjacking/sandbox-frame-buster"
+   }
+  ]
+ },
+ "ثغرات DOM": {
+  "icon": "🌐",
+  "color": "#14b8a6",
+  "slug": "dom-based-vulnerabilities",
+  "labs": [
+   {
+    "n": "DOM XSS using web messages",
+    "d": "Practitioner",
+    "u": "/web-security/dom-based/dom-xss-web-messages"
+   },
+   {
+    "n": "DOM XSS using web messages and an iframe",
+    "d": "Practitioner",
+    "u": "/web-security/dom-based/dom-xss-web-messages-iframe"
+   },
+   {
+    "n": "DOM clobbering",
+    "d": "Expert",
+    "u": "/web-security/dom-based/dom-clobbering"
+   }
+  ]
+ },
+ "CORS مشاركة الموارد": {
+  "icon": "🔗",
+  "color": "#f59e0b",
+  "slug": "cross-origin-resource-sharing-cors",
+  "labs": [
+   {
+    "n": "CORS vulnerability with basic origin reflection",
+    "d": "Practitioner",
+    "u": "/web-security/cors/basic-origin-reflection"
+   },
+   {
+    "n": "CORS vulnerability with trusted null origin",
+    "d": "Practitioner",
+    "u": "/web-security/cors/trusted-null-origin"
+   },
+   {
+    "n": "CORS vulnerability with trusted subdomains",
+    "d": "Expert",
+    "u": "/web-security/cors/trusted-subdomains"
+   },
+   {
+    "n": "CORS vulnerability with insecure protocol",
+    "d": "Expert",
+    "u": "/web-security/cors/insecure-protocol"
+   }
+  ]
+ },
+ "حقن كيانات XML XXE": {
+  "icon": "📄",
+  "color": "#6366f1",
+  "slug": "xml-external-entity-xxe-injection",
+  "labs": [
+   {
+    "n": "Exploiting XXE using external entities to retrieve files",
+    "d": "Practitioner",
+    "u": "/web-security/xxe/exploiting-xxe-to-retrieve-files"
+   },
+   {
+    "n": "Exploiting XXE to perform SSRF attacks",
+    "d": "Practitioner",
+    "u": "/web-security/xxe/exploiting-xxe-to-perform-ssrf"
+   },
+   {
+    "n": "Blind XXE with out-of-band interaction",
+    "d": "Expert",
+    "u": "/web-security/xxe/blind-xxe-with-out-of-band-interaction"
+   },
+   {
+    "n": "Blind XXE with out-of-band interaction via XML parameter entities",
+    "d": "Expert",
+    "u": "/web-security/xxe/blind-xxe-with-out-of-band-oob-via-xml-parameter-entity"
+   }
+  ]
+ },
+ "تزوير الطلبات من الخادم SSRF": {
+  "icon": "🚪",
+  "color": "#8b5cf6",
+  "slug": "server-side-request-forgery-ssrf",
+  "labs": [
+   {
+    "n": "Basic SSRF against the local server",
+    "d": "Apprentice",
+    "u": "/web-security/ssrf/basic-ssrf-against-local-server"
+   },
+   {
+    "n": "SSRF with filter-based URL blocklist",
+    "d": "Practitioner",
+    "u": "/web-security/ssrf/ssrf-filter-bypass"
+   },
+   {
+    "n": "SSRF with filter bypass via open redirect vulnerability",
+    "d": "Expert",
+    "u": "/web-security/ssrf/ssrf-with-filter-bypass-via-open-redirect"
+   }
+  ]
+ },
+ "تهريب طلبات HTTP": {
+  "icon": "📦",
+  "color": "#0ea5e9",
+  "slug": "http-request-smuggling",
+  "labs": [
+   {
+    "n": "CL.TE vulnerability",
+    "d": "Practitioner",
+    "u": "/web-security/request-smuggling/lab-cl-te"
+   },
+   {
+    "n": "TE.CL vulnerability",
+    "d": "Practitioner",
+    "u": "/web-security/request-smuggling/lab-te-cl"
+   },
+   {
+    "n": "H2.TE vulnerability",
+    "d": "Expert",
+    "u": "/web-security/request-smuggling/lab-h2-te"
+   },
+   {
+    "n": "TE.H2 vulnerability",
+    "d": "Expert",
+    "u": "/web-security/request-smuggling/lab-te-h2"
+   }
+  ]
+ },
+ "حقن أوامر النظام": {
+  "icon": "🖥️",
+  "color": "#dc2626",
+  "slug": "os-command-injection",
+  "labs": [
+   {
+    "n": "OS command injection, simple case",
+    "d": "Apprentice",
+    "u": "/web-security/os-command-injection/lab-simple"
+   },
+   {
+    "n": "Blind OS command injection with time delays",
+    "d": "Practitioner",
+    "u": "/web-security/os-command-injection/lab-blind-time-delays"
+   },
+   {
+    "n": "Blind OS command injection with output redirection",
+    "d": "Practitioner",
+    "u": "/web-security/os-command-injection/lab-blind-output-redirection"
+   },
+   {
+    "n": "OS command injection with filter bypass",
+    "d": "Expert",
+    "u": "/web-security/os-command-injection/lab-filter-bypass"
+   }
+  ]
+ },
+ "حقن القوالب من جانب الخادم SSTI": {
+  "icon": "📐",
+  "color": "#7c3aed",
+  "slug": "server-side-template-injection",
+  "labs": [
+   {
+    "n": "Basic server-side template injection",
+    "d": "Apprentice",
+    "u": "/web-security/ssti/basic"
+   },
+   {
+    "n": "Basic server-side template injection (code context)",
+    "d": "Apprentice",
+    "u": "/web-security/ssti/basic-code-context"
+   },
+   {
+    "n": "Server-side template injection using documented methods",
+    "d": "Practitioner",
+    "u": "/web-security/ssti/documented-methods"
+   },
+   {
+    "n": "Server-side template injection in an unknown language with a documented exploit",
+    "d": "Expert",
+    "u": "/web-security/ssti/unknown-language-documented-exploit"
+   },
+   {
+    "n": "Server-side template injection with information disclosure via user-supplied objects",
+    "d": "Expert",
+    "u": "/web-security/ssti/info-disclosure-user-supplied-objects"
+   },
+   {
+    "n": "Server-side template injection in a sandboxed code environment",
+    "d": "Expert",
+    "u": "/web-security/ssti/sandboxed-code-environment"
+   }
+  ]
+ },
+ "اجتياز المسارات Path Traversal": {
+  "icon": "📂",
+  "color": "#059669",
+  "slug": "path-traversal",
+  "labs": [
+   {
+    "n": "File path traversal, simple case",
+    "d": "Apprentice",
+    "u": "/web-security/path-traversal/lab-simple"
+   },
+   {
+    "n": "File path traversal, traversal sequences blocked with absolute path bypass",
+    "d": "Practitioner",
+    "u": "/web-security/path-traversal/lab-absolute-path-bypass"
+   },
+   {
+    "n": "File path traversal, traversal sequences stripped non-recursively",
+    "d": "Practitioner",
+    "u": "/web-security/path-traversal/lab-non-recursive-strip"
+   },
+   {
+    "n": "File path traversal, traversal sequences stripped with superfluous URL-decode",
+    "d": "Expert",
+    "u": "/web-security/path-traversal/lab-url-decode-superfluous-strip"
+   },
+   {
+    "n": "File path traversal, validation of start of path",
+    "d": "Practitioner",
+    "u": "/web-security/path-traversal/lab-validation-of-start-of-path"
+   },
+   {
+    "n": "File path traversal, validation of file extension with null byte bypass",
+    "d": "Expert",
+    "u": "/web-security/path-traversal/lab-extension-filter-null-byte-bypass"
+   }
+  ]
+ },
+ "ثغرات التحكم في الوصول": {
+  "icon": "🛡️",
+  "color": "#e11d48",
+  "slug": "access-control-vulnerabilities",
+  "labs": [
+   {
+    "n": "User role controlled by request parameter",
+    "d": "Apprentice",
+    "u": "/web-security/access-control/lab-user-role-controlled-by-request-parameter"
+   },
+   {
+    "n": "User role can be modified in user profile",
+    "d": "Practitioner",
+    "u": "/web-security/access-control/lab-user-role-can-be-modified-in-user-profile"
+   },
+   {
+    "n": "Inconsistent security controls",
+    "d": "Practitioner",
+    "u": "/web-security/access-control/lab-inconsistent-security-controls"
+   },
+   {
+    "n": "Method-based access control",
+    "d": "Apprentice",
+    "u": "/web-security/access-control/lab-method-based-access-control"
+   },
+   {
+    "n": "URL-based access control",
+    "d": "Apprentice",
+    "u": "/web-security/access-control/lab-url-based-access-control"
+   }
+  ]
+ },
+ "المصادقة Authentication": {
+  "icon": "🔑",
+  "color": "#d97706",
+  "slug": "authentication",
+  "labs": [
+   {
+    "n": "Brute-force attack on a login page",
+    "d": "Apprentice",
+    "u": "/web-security/authentication/password-based/lab-brute-force"
+   },
+   {
+    "n": "Username enumeration via different responses",
+    "d": "Apprentice",
+    "u": "/web-security/authentication/username-enumeration-via-different-responses"
+   },
+   {
+    "n": "Username enumeration via subtly different responses",
+    "d": "Practitioner",
+    "u": "/web-security/authentication/username-enumeration-via-subtly-different-responses"
+   },
+   {
+    "n": "2FA simple bypass",
+    "d": "Practitioner",
+    "u": "/web-security/authentication/multi-factor/2fa-simple-bypass"
+   },
+   {
+    "n": "2FA bypass using a brute-force attack",
+    "d": "Expert",
+    "u": "/web-security/authentication/multi-factor/2fa-brute-force"
+   }
+  ]
+ },
+ "WebSockets": {
+  "icon": "🔌",
+  "color": "#0d9488",
+  "slug": "websockets",
+  "labs": [
+   {
+    "n": "Manipulating WebSocket messages to exploit vulnerabilities",
+    "d": "Practitioner",
+    "u": "/web-security/websockets/manipulating-messages"
+   },
+   {
+    "n": "Manipulating the WebSocket handshake to exploit vulnerabilities",
+    "d": "Expert",
+    "u": "/web-security/websockets/manipulating-handshake"
+   }
+  ]
+ },
+ "تسميم الكاش Web Cache Poisoning": {
+  "icon": "🕸️",
+  "color": "#7e22ce",
+  "slug": "web-cache-poisoning",
+  "labs": [
+   {
+    "n": "Web cache poisoning",
+    "d": "Expert",
+    "u": "/web-security/cache-poisoning/exploiting-cache-poisoning"
+   },
+   {
+    "n": "Web cache poisoning via an unkeyed header",
+    "d": "Expert",
+    "u": "/web-security/cache-poisoning/exploiting-cache-poisoning-via-unkeyed-header"
+   },
+   {
+    "n": "Web cache poisoning via an unkeyed cookie",
+    "d": "Expert",
+    "u": "/web-security/cache-poisoning/exploiting-cache-poisoning-via-unkeyed-cookie"
+   },
+   {
+    "n": "Cache key injection via URL path",
+    "d": "Expert",
+    "u": "/web-security/cache-poisoning/cache-key-injection-via-url-path"
+   },
+   {
+    "n": "Web cache deception",
+    "d": "Practitioner",
+    "u": "/web-security/cache-poisoning/web-cache-deception"
+   }
+  ]
+ },
+ "إلغاء التسلسل غير الآمن": {
+  "icon": "🔮",
+  "color": "#be185d",
+  "slug": "insecure-deserialization",
+  "labs": [
+   {
+    "n": "Modifying serialized objects",
+    "d": "Practitioner",
+    "u": "/web-security/deserialization/modifying-serialized-objects"
+   },
+   {
+    "n": "Application functionality bypass using serialization",
+    "d": "Practitioner",
+    "u": "/web-security/deserialization/application-functionality-bypass"
+   },
+   {
+    "n": "Exploiting Java deserialization with Apache Commons",
+    "d": "Expert",
+    "u": "/web-security/deserialization/exploiting-java-deserialization-apache-commons"
+   },
+   {
+    "n": "Exploiting PHP deserialization",
+    "d": "Expert",
+    "u": "/web-security/deserialization/exploiting-php-deserialization"
+   },
+   {
+    "n": "Exploiting Ruby deserialization",
+    "d": "Expert",
+    "u": "/web-security/deserialization/exploiting-ruby-deserialization"
+   }
+  ]
+ },
+ "تسريب المعلومات": {
+  "icon": "👁️",
+  "color": "#64748b",
+  "slug": "information-disclosure",
+  "labs": [
+   {
+    "n": "Information disclosure in error messages",
+    "d": "Apprentice",
+    "u": "/web-security/information-disclosure/error-messages"
+   },
+   {
+    "n": "Information disclosure on sensitive development environment",
+    "d": "Apprentice",
+    "u": "/web-security/information-disclosure/sensitive-dev-environment"
+   },
+   {
+    "n": "Information disclosure via backup files",
+    "d": "Apprentice",
+    "u": "/web-security/information-disclosure/backup-files"
+   },
+   {
+    "n": "Information disclosure via source code in a JavaScript file",
+    "d": "Practitioner",
+    "u": "/web-security/information-disclosure/source-code-in-js-file"
+   },
+   {
+    "n": "Information disclosure via user-controlled HTML",
+    "d": "Practitioner",
+    "u": "/web-security/information-disclosure/user-controlled-html"
+   }
+  ]
+ },
+ "ثغرات المنطق التجاري": {
+  "icon": "🧠",
+  "color": "#0891b2",
+  "slug": "business-logic-vulnerabilities",
+  "labs": [
+   {
+    "n": "Excessive trust in client-side controls",
+    "d": "Apprentice",
+    "u": "/web-security/logic-flaws/excessive-trust-in-client-side-controls"
+   },
+   {
+    "n": "High-level logic vulnerability",
+    "d": "Practitioner",
+    "u": "/web-security/logic-flaws/high-level-logic-vulnerability"
+   },
+   {
+    "n": "Low-level logic flaw",
+    "d": "Practitioner",
+    "u": "/web-security/logic-flaws/low-level-logic-flaw"
+   },
+   {
+    "n": "Inconsistent security controls",
+    "d": "Expert",
+    "u": "/web-security/logic-flaws/inconsistent-security-controls"
+   }
+  ]
+ }
+}

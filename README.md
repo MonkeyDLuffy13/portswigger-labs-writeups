@@ -45,6 +45,7 @@ real, live labs of that topic — so the tracker stays honest.
 
 ```
 .
+├── data.json                # the original personal tracker (valid-JSON copy, 19 topics / 112 labs)
 ├── <topic>/                 # one folder per topic
 │   ├── README.md            # lab table (verified links) + notes
 │   └── NN-*.md              # solution files (SQL injection: all 18 done)
