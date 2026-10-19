@@ -48,7 +48,7 @@ main{max-width:1150px;margin:0 auto;padding:0 24px 60px}
 #q{width:100%;padding:14px 18px 14px 44px;font-size:1rem;border-radius:14px;
   border:1px solid var(--line);background:var(--card);color:var(--txt);outline:none;transition:.2s}
 #q:focus{border-color:var(--acc);box-shadow:0 0 0 3px #38bdf822}
-.searchwrap::before{content:"🔍";position:absolute;left:14px;top:50%;transform:translateY(-50%)}
+.searchwrap::before{content:"";position:absolute;left:14px;top:50%;transform:translateY(-50%)}
 .toc{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;margin:26px 0 46px}
 .card{display:flex;flex-direction:column;gap:4px;background:var(--card);border:1px solid var(--line);
   border-radius:14px;padding:14px 16px;color:var(--txt);text-decoration:none;transition:.18s}
@@ -118,37 +118,37 @@ footer a{color:var(--acc);text-decoration:none}
 <div class="searchwrap"><input id="q" type="search" placeholder="Filter labs — try: blind, jwt, ssrf, smuggling…" aria-label="Filter labs"></div>
 <h2 id="topics" style="font-size:1.15rem">📚 Topics</h2>
 <div class="toc">
-<a class="card" href="#sql-injection"><span class="ic">📚</span><b>SQL Injection</b><i>62 labs</i></a>
-<a class="card" href="#cross-site-scripting"><span class="ic">📚</span><b>Cross-Site Scripting (XSS)</b><i>45 labs</i></a>
-<a class="card" href="#cross-site-request-forgery-csrf"><span class="ic">📚</span><b>Cross-Site Request Forgery</b><i>17 labs</i></a>
-<a class="card" href="#clickjacking"><span class="ic">📚</span><b>Clickjacking</b><i>16 labs</i></a>
-<a class="card" href="#dom-based-vulnerabilities"><span class="ic">📚</span><b>DOM-based Vulnerabilities</b><i>17 labs</i></a>
-<a class="card" href="#cross-origin-resource-sharing-cors"><span class="ic">📚</span><b>CORS</b><i>14 labs</i></a>
-<a class="card" href="#xml-external-entity-xxe-injection"><span class="ic">📚</span><b>XXE Injection</b><i>15 labs</i></a>
-<a class="card" href="#server-side-request-forgery-ssrf"><span class="ic">📚</span><b>SSRF</b><i>13 labs</i></a>
-<a class="card" href="#http-request-smuggling"><span class="ic">📚</span><b>HTTP Request Smuggling</b><i>35 labs</i></a>
-<a class="card" href="#os-command-injection"><span class="ic">📚</span><b>OS Command Injection</b><i>16 labs</i></a>
-<a class="card" href="#server-side-template-injection"><span class="ic">📚</span><b>SSTI</b><i>13 labs</i></a>
-<a class="card" href="#path-traversal"><span class="ic">📚</span><b>Path Traversal</b><i>12 labs</i></a>
-<a class="card" href="#access-control-vulnerabilities"><span class="ic">📚</span><b>Access Control</b><i>20 labs</i></a>
-<a class="card" href="#authentication"><span class="ic">📚</span><b>Authentication</b><i>25 labs</i></a>
-<a class="card" href="#websockets"><span class="ic">📚</span><b>WebSockets</b><i>9 labs</i></a>
-<a class="card" href="#web-cache-poisoning"><span class="ic">📚</span><b>Web Cache Poisoning</b><i>19 labs</i></a>
-<a class="card" href="#insecure-deserialization"><span class="ic">📚</span><b>Insecure Deserialization</b><i>16 labs</i></a>
-<a class="card" href="#information-disclosure"><span class="ic">📚</span><b>Information Disclosure</b><i>18 labs</i></a>
-<a class="card" href="#business-logic-vulnerabilities"><span class="ic">📚</span><b>Business Logic</b><i>18 labs</i></a>
-<a class="card" href="#host-header-attacks"><span class="ic">📚</span><b>Host Header Attacks</b><i>14 labs</i></a>
-<a class="card" href="#oauth"><span class="ic">📚</span><b>OAuth</b><i>13 labs</i></a>
-<a class="card" href="#file-upload"><span class="ic">📚</span><b>File Upload</b><i>14 labs</i></a>
-<a class="card" href="#jwt"><span class="ic">📚</span><b>JWT</b><i>15 labs</i></a>
-<a class="card" href="#essential-skills"><span class="ic">📚</span><b>Essential Skills</b><i>9 labs</i></a>
-<a class="card" href="#prototype-pollution"><span class="ic">📚</span><b>Prototype Pollution</b><i>17 labs</i></a>
-<a class="card" href="#graphql"><span class="ic">📚</span><b>GraphQL</b><i>12 labs</i></a>
-<a class="card" href="#race-conditions"><span class="ic">📚</span><b>Race Conditions</b><i>13 labs</i></a>
-<a class="card" href="#nosql-injection"><span class="ic">📚</span><b>NoSQL Injection</b><i>11 labs</i></a>
-<a class="card" href="#api-testing"><span class="ic">📚</span><b>API Testing</b><i>12 labs</i></a>
-<a class="card" href="#web-llm-attacks"><span class="ic">📚</span><b>Web LLM Attacks</b><i>15 labs</i></a>
-<a class="card" href="#web-cache-deception"><span class="ic">📚</span><b>Web Cache Deception</b><i>12 labs</i></a>
+<a class="card" href="#sql-injection"><b>SQL Injection</b><i>62 labs</i></a>
+<a class="card" href="#cross-site-scripting"><b>Cross-Site Scripting (XSS)</b><i>45 labs</i></a>
+<a class="card" href="#cross-site-request-forgery-csrf"><b>Cross-Site Request Forgery</b><i>17 labs</i></a>
+<a class="card" href="#clickjacking"><b>Clickjacking</b><i>16 labs</i></a>
+<a class="card" href="#dom-based-vulnerabilities"><b>DOM-based Vulnerabilities</b><i>17 labs</i></a>
+<a class="card" href="#cross-origin-resource-sharing-cors"><b>CORS</b><i>14 labs</i></a>
+<a class="card" href="#xml-external-entity-xxe-injection"><b>XXE Injection</b><i>15 labs</i></a>
+<a class="card" href="#server-side-request-forgery-ssrf"><b>SSRF</b><i>13 labs</i></a>
+<a class="card" href="#http-request-smuggling"><b>HTTP Request Smuggling</b><i>35 labs</i></a>
+<a class="card" href="#os-command-injection"><b>OS Command Injection</b><i>16 labs</i></a>
+<a class="card" href="#server-side-template-injection"><b>SSTI</b><i>13 labs</i></a>
+<a class="card" href="#path-traversal"><b>Path Traversal</b><i>12 labs</i></a>
+<a class="card" href="#access-control-vulnerabilities"><b>Access Control</b><i>20 labs</i></a>
+<a class="card" href="#authentication"><b>Authentication</b><i>25 labs</i></a>
+<a class="card" href="#websockets"><b>WebSockets</b><i>9 labs</i></a>
+<a class="card" href="#web-cache-poisoning"><b>Web Cache Poisoning</b><i>19 labs</i></a>
+<a class="card" href="#insecure-deserialization"><b>Insecure Deserialization</b><i>16 labs</i></a>
+<a class="card" href="#information-disclosure"><b>Information Disclosure</b><i>18 labs</i></a>
+<a class="card" href="#business-logic-vulnerabilities"><b>Business Logic</b><i>18 labs</i></a>
+<a class="card" href="#host-header-attacks"><b>Host Header Attacks</b><i>14 labs</i></a>
+<a class="card" href="#oauth"><b>OAuth</b><i>13 labs</i></a>
+<a class="card" href="#file-upload"><b>File Upload</b><i>14 labs</i></a>
+<a class="card" href="#jwt"><b>JWT</b><i>15 labs</i></a>
+<a class="card" href="#essential-skills"><b>Essential Skills</b><i>9 labs</i></a>
+<a class="card" href="#prototype-pollution"><b>Prototype Pollution</b><i>17 labs</i></a>
+<a class="card" href="#graphql"><b>GraphQL</b><i>12 labs</i></a>
+<a class="card" href="#race-conditions"><b>Race Conditions</b><i>13 labs</i></a>
+<a class="card" href="#nosql-injection"><b>NoSQL Injection</b><i>11 labs</i></a>
+<a class="card" href="#api-testing"><b>API Testing</b><i>12 labs</i></a>
+<a class="card" href="#web-llm-attacks"><b>Web LLM Attacks</b><i>15 labs</i></a>
+<a class="card" href="#web-cache-deception"><b>Web Cache Deception</b><i>12 labs</i></a>
 </div>
 
 <section id="sql-injection">
