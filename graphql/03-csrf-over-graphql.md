@@ -4,7 +4,7 @@
 
 **Entry point:** the email change is a GraphQL mutation sent as JSON — but
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 the endpoint **also accepts form-encoded POSTs**.
 
 ## Solution

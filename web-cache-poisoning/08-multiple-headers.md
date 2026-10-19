@@ -4,7 +4,7 @@
 
 **Entry point:** two unkeyed headers must be combined — neither is enough
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 alone.
 
 ## Solution

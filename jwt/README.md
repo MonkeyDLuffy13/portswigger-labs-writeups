@@ -1,6 +1,6 @@
 # JWT Attacks — PortSwigger Web Security Academy
 
-> 8 labs · ✅ solved — all 8 labs
+> 8 labs · solved — all 8 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

@@ -1,7 +1,7 @@
 # Os Command Injection — PortSwigger Web Security Academy
 
 
-> ⚠️ **Link check 2026-10-17:** 1 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
+> Link check 2026-10-17:** 1 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
 
 - *"OS command injection with filter bypass"*
 

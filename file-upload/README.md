@@ -1,6 +1,6 @@
 # File Upload Vulnerabilities — PortSwigger Web Security Academy
 
-> 7 labs · ✅ solved — all 7 labs
+> 7 labs · solved — all 7 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

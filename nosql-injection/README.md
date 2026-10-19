@@ -1,6 +1,6 @@
 # NoSQL Injection — PortSwigger Web Security Academy
 
-> 4 labs · ✅ solved — all 4 labs
+> 4 labs · solved — all 4 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

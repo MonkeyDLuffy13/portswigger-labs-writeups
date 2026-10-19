@@ -1,6 +1,6 @@
 # Web Cache Deception — PortSwigger Web Security Academy
 
-> 5 labs · ✅ solved — all 5 labs
+> 5 labs · solved — all 5 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

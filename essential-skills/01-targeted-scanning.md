@@ -16,7 +16,7 @@ to find a vulnerability fast.
    with a real exfiltration payload, send, and confirm the issue —
    lab solved.
 
-> 🔧 **Burp Community alternative:** active auditing is Pro-only. Do it
+> **Burp Community alternative (free):** active auditing is Pro-only. Do it
 > manually: swap the cookie's token part for `'"><svg/onload=...>`-style
 > payloads (the cookie is reflected into a comment form field) until the
 > stored XSS fires for other visitors.

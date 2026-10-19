@@ -1,7 +1,7 @@
 # Information Disclosure — PortSwigger Web Security Academy
 
 
-> ⚠️ **Link check 2026-10-17:** 2 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
+> Link check 2026-10-17:** 2 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
 
 - *"Information disclosure via source code in a JavaScript file"*
 - *"Information disclosure via user-controlled HTML"*

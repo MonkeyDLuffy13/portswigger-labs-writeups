@@ -4,7 +4,7 @@
 
 **Entry point:** `POST /product/stock` · **Obstacle:** the request may not
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 contain a DOCTYPE (blocked), so smuggle it via a **local DTD trick**.
 
 ## Solution

@@ -4,7 +4,7 @@
 
 **Entry point:** the admin panel is restricted to `@dontwannacry.com` emails
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 — but the email-change form doesn't enforce the domain.
 
 ## Solution

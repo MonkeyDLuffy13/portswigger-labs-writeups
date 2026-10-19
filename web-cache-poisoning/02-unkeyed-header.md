@@ -4,7 +4,7 @@
 
 **Entry point:** an unkeyed request header is reflected into the response —
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 inside the URL of an imported JavaScript resource.
 
 ## Solution

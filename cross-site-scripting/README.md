@@ -1,7 +1,7 @@
 # Cross Site Scripting — PortSwigger Web Security Academy
 
 
-> ⚠️ **Link check 2026-10-17:** 3 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
+> Link check 2026-10-17:** 3 lab(s) from the personal tracker have no matching live page on portswigger.net — they may not exist as separate labs. Verify before hunting:
 
 - *"DOM XSS in AngularJS expression with simplified sandbox escape"*
 - *"Reflected XSS blocked by CSP with unsafe-eval and script-src restricted to a CDN"*

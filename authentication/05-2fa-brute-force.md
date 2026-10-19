@@ -4,7 +4,7 @@
 
 **Entry point:** `POST /login2` (`mfa-code`) — two wrong codes log you out,
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 so each attempt needs a fresh login.
 
 ## Solution

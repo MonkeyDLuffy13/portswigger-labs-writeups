@@ -4,7 +4,7 @@
 
 **Entry point:** `POST /product/stock` (blind) · exfil via **error
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 messages** instead of Collaborator.
 
 ## Solution

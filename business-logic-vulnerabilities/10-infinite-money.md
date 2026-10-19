@@ -4,7 +4,7 @@
 
 **Entry point:** buy $10 gift card with a 30% coupon ($7), redeem for $10
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 credit → +$3 per cycle. Automate with a Burp macro.
 
 ## Solution

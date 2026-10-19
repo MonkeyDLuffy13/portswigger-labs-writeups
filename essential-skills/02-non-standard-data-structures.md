@@ -21,7 +21,7 @@
 5. After ~a minute, Collaborator receives the **admin's cookies** — set them
    in your browser, open the admin panel, delete carlos — lab solved.
 
-> 🔧 **Burp Community alternative:** Collaborator is Pro-only — use
+> **Burp Community alternative (free):** Collaborator is Pro-only — use
 > [interact.sh](https://interact.sh)/[canarytokens.org](https://canarytokens.org)
 > as the callback domain, and find the stored XSS manually by fuzzing the
 > cookie value with common breakout payloads.

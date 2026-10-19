@@ -4,7 +4,7 @@
 
 **Entry point:** an HTML comment points to a debug page that leaks
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 environment variables.
 
 ## Solution

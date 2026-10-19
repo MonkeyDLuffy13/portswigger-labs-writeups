@@ -1,6 +1,6 @@
 # HTTP Host header attacks — PortSwigger Web Security Academy
 
-> 7 labs · ✅ solved — all 7 labs
+> 7 labs · solved — all 7 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

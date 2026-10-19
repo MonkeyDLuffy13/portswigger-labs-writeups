@@ -1,6 +1,6 @@
 # Prototype Pollution — PortSwigger Web Security Academy
 
-> 10 labs · ✅ solved — all 10 labs
+> 10 labs · solved — all 10 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

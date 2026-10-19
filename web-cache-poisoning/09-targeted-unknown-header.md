@@ -4,7 +4,7 @@
 
 **Entry point:** `X-Host` (found by Param Miner) drives the
 
-> 🔧 **Burp Community alternative:** the tool named below is Pro-only — the free replacement is described in the steps.
+> **Burp Community alternative (free):** the tool named below is Pro-only — the free replacement is described in the steps.
 `/resources/js/tracking.js` import — and the cache varies on `User-Agent`.
 
 ## Solution

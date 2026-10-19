@@ -1,6 +1,6 @@
 # Race conditions — PortSwigger Web Security Academy
 
-> 6 labs · ✅ solved — all 6 labs
+> 6 labs · solved — all 6 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

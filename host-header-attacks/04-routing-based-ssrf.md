@@ -4,7 +4,7 @@
 
 **Entry point:** the middleware **routes requests based on the Host
 
-> 🔧 **Burp Community alternative:** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) (DNS + HTTP). Substitute its domain wherever this write-up says Collaborator/Collaborator payload.
+> **Burp Community alternative (free):** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) (DNS + HTTP). Substitute its domain wherever this write-up says Collaborator/Collaborator payload.
 header** — make it route to an internal admin server.
 
 ## Solution

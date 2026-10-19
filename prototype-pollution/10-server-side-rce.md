@@ -4,7 +4,7 @@
 
 **Entry point:** the command sink fires only when an **admin** triggers the
 
-> 🔧 **Burp Community alternative:** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) (DNS + HTTP). Substitute its domain wherever this write-up says Collaborator/Collaborator payload.
+> **Burp Community alternative (free):** Collaborator is Pro-only. Use a free out-of-band service instead — [interact.sh](https://interact.sh) or [canarytokens.org](https://canarytokens.org) (DNS + HTTP). Substitute its domain wherever this write-up says Collaborator/Collaborator payload.
 maintenance jobs — combine pollution options for full RCE.
 
 ## Solution

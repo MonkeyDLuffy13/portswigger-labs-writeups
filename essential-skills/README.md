@@ -1,6 +1,6 @@
 # Essential skills — PortSwigger Web Security Academy
 
-> 2 labs · ✅ solved — all 2 labs
+> 2 labs · solved — all 2 labs
 
 | # | Lab | Level | Official |
 |---|-----|-------|----------|

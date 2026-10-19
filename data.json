@@ -1,6 +1,5 @@
 {
  "sql-injection": {
-  "icon": "💻",
   "color": "#3b82f6",
   "slug": "sql-injection",
   "labs": [
@@ -113,7 +112,6 @@
   "name": "SQL injection"
  },
  "cross-site-scripting": {
-  "icon": "💥",
   "color": "#ef4444",
   "slug": "cross-site-scripting",
   "labs": [
@@ -211,7 +209,6 @@
   "name": "Cross-site scripting"
  },
  "cross-site-request-forgery-csrf": {
-  "icon": "🔒",
   "color": "#a855f7",
   "slug": "cross-site-request-forgery-csrf",
   "labs": [
@@ -244,7 +241,6 @@
   "name": "Cross-site request forgery (CSRF)"
  },
  "clickjacking": {
-  "icon": "💠",
   "color": "#ec4899",
   "slug": "clickjacking",
   "labs": [
@@ -267,7 +263,6 @@
   "name": "Clickjacking"
  },
  "dom-based-vulnerabilities": {
-  "icon": "🌐",
   "color": "#14b8a6",
   "slug": "dom-based-vulnerabilities",
   "labs": [
@@ -290,7 +285,6 @@
   "name": "DOM-based vulnerabilities"
  },
  "cross-origin-resource-sharing-cors": {
-  "icon": "🔗",
   "color": "#f59e0b",
   "slug": "cross-origin-resource-sharing-cors",
   "labs": [
@@ -318,7 +312,6 @@
   "name": "Cross-origin resource sharing (CORS)"
  },
  "xml-external-entity-xxe-injection": {
-  "icon": "📄",
   "color": "#6366f1",
   "slug": "xml-external-entity-xxe-injection",
   "labs": [
@@ -346,7 +339,6 @@
   "name": "XML external entity (XXE) injection"
  },
  "server-side-request-forgery-ssrf": {
-  "icon": "🚪",
   "color": "#8b5cf6",
   "slug": "server-side-request-forgery-ssrf",
   "labs": [
@@ -369,7 +361,6 @@
   "name": "Server-side request forgery (SSRF)"
  },
  "http-request-smuggling": {
-  "icon": "📦",
   "color": "#0ea5e9",
   "slug": "http-request-smuggling",
   "labs": [
@@ -397,7 +388,6 @@
   "name": "HTTP request smuggling"
  },
  "os-command-injection": {
-  "icon": "🖥️",
   "color": "#dc2626",
   "slug": "os-command-injection",
   "labs": [
@@ -425,7 +415,6 @@
   "name": "OS command injection"
  },
  "server-side-template-injection": {
-  "icon": "📐",
   "color": "#7c3aed",
   "slug": "server-side-template-injection",
   "labs": [
@@ -463,7 +452,6 @@
   "name": "Server-side template injection"
  },
  "path-traversal": {
-  "icon": "📂",
   "color": "#059669",
   "slug": "path-traversal",
   "labs": [
@@ -501,7 +489,6 @@
   "name": "Path traversal"
  },
  "access-control-vulnerabilities": {
-  "icon": "🛡️",
   "color": "#e11d48",
   "slug": "access-control-vulnerabilities",
   "labs": [
@@ -534,7 +521,6 @@
   "name": "Access control vulnerabilities"
  },
  "authentication": {
-  "icon": "🔑",
   "color": "#d97706",
   "slug": "authentication",
   "labs": [
@@ -567,7 +553,6 @@
   "name": "Authentication"
  },
  "websockets": {
-  "icon": "🔌",
   "color": "#0d9488",
   "slug": "websockets",
   "labs": [
@@ -585,7 +570,6 @@
   "name": "WebSockets"
  },
  "web-cache-poisoning": {
-  "icon": "🕸️",
   "color": "#7e22ce",
   "slug": "web-cache-poisoning",
   "labs": [
@@ -618,7 +602,6 @@
   "name": "Web cache poisoning"
  },
  "insecure-deserialization": {
-  "icon": "🔮",
   "color": "#be185d",
   "slug": "insecure-deserialization",
   "labs": [
@@ -651,7 +634,6 @@
   "name": "Insecure deserialization"
  },
  "information-disclosure": {
-  "icon": "👁️",
   "color": "#64748b",
   "slug": "information-disclosure",
   "labs": [
@@ -684,7 +666,6 @@
   "name": "Information disclosure"
  },
  "business-logic-vulnerabilities": {
-  "icon": "🧠",
   "color": "#0891b2",
   "slug": "business-logic-vulnerabilities",
   "labs": [
